@@ -1,6 +1,6 @@
-# ds-project-template
+# Intro
 
-Template for creating ds simple projects
+In this exercise we performed EDA on the dataset "House Prices in King County, USA". The project can be found in the notebook EDA.ipynb and the corresponding slides for the presentation are in the data folder. 
 
 ## Requirements
 
